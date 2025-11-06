@@ -1,0 +1,7 @@
+homepage:
+  menu:
+    replace:
+
+      - desc: pago-creditos
+        screenName: pago-creditos
+        img: "/src/client/assets/logo.jpg"
